@@ -19,6 +19,5 @@ Below is a screenshot of the App
 
 The app is deployed on Heroku and can be reached via the below link:
 
-https://postkeeper-app.herokuapp.com/
 
 
